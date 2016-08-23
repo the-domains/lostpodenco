@@ -1,0 +1,14 @@
+layout_spectrum: 0.9505734
+typography_spectrum: 0.5779552
+color:
+  saturation: 0.1537734
+  lightness: 0.8114988
+  brandStrength: 0.9200987
+  rhythmicContrast: 0.2381072
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Lostpodenco
